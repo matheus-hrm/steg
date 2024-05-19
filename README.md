@@ -1,5 +1,5 @@
-### Programa de esteganografia
-### Aluno: Matheus Henrique Rodrigues Magalhães
+# Programa de esteganografia
+## Aluno: Matheus Henrique Rodrigues Magalhães
 
 ## Estrutura de arquvos
 
