@@ -1,4 +1,4 @@
-#include "stego.h"
+#include "steg.h"
 
 char *readText(const char *file_path)
 {

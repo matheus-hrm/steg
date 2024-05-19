@@ -1,4 +1,4 @@
-#include "stego.h"
+#include "steg.h"
 
 int main(int argc, char **argv)
 {

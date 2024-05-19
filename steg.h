@@ -1,5 +1,5 @@
-#ifndef stego_h 
-#define stego_h
+#ifndef STEG_H 
+#define STEG_H
 
 #include <stdio.h>
 #include <stdlib.h>
